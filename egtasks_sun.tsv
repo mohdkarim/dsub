@@ -1,0 +1,3 @@
+--env BATCHID	--input GCTA	--input-recursive REF	--input-recursive PROTEINS	--input-recursive OUTCOMES	--output-recursive OUTPUT
+1	gs://genetics-portal-ukbb-mr/gcta64	gs://open-targets-ukbb/genotypes/ukb_v3_downsampled10k	gs//genetics-portal-ukbb-mr/protein-gwas/SUN/dsub/sun/dir_001	gs://genetics-portal-ukbb-mr/outcomes/	gs://genetics-portal-ukbb-mr/pan-gsmr-outputs/sun/1
+2	gs://genetics-portal-ukbb-mr/gcta64	gs://open-targets-ukbb/genotypes/ukb_v3_downsampled10k	gs//genetics-portal-ukbb-mr/protein-gwas/SUN/dsub/sun/dir_002	gs://genetics-portal-ukbb-mr/outcomes/	gs://genetics-portal-ukbb-mr/pan-gsmr-outputs/sun/2
